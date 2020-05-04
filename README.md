@@ -4,4 +4,3 @@ All analysis notebook use the csv 'pm_no_clean.csv'. This is a large 500MB file 
 
 Unzip the raw data file and place in same directory as 'base_pm_no2.ipynb'. This notebook is where all modifications to pm_no_clean.csv are made.
 
-Some file paths may need to be changed. Please contact me if any of the required shape files are not present. 
